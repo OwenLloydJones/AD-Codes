@@ -1,4 +1,4 @@
-#AD Group scripts
+# AD Group scripts
 These scripts allow the employees in companies adding Active Directory groups to complete tasks like this easier. Things such as GUI's and multiple AD additions at once, either Bulk users of Bulk groups.
 
 # Requirements to use 
