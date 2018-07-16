@@ -1,5 +1,5 @@
-# AD_GroupAutomation
-A Script that utilities PowerShell in a way to automate the process of adding active directory groups to user profiles.
+#AD Group scripts
+These scripts allow the employees in companies adding Active Directory groups to complete tasks like this easier. Things such as GUI's and multiple AD additions at once, either Bulk users of Bulk groups.
 
 # Requirements to use 
 To use this script in a business enviroment there are things that the user will need to have. 
