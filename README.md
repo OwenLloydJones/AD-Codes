@@ -19,3 +19,6 @@ This code has been used and tested inside a business enviroment and is something
 This script depending on its use can be either quicker or slower than the standard process of adding the AD gorup to the users profile.
 The process the company i designed the script for leaves an aduit trail requiring emails to be sent and everything to be approved before being provisioned. This process means that each user needs to have a request raised for them. This makes the process of gathering all User ID's long, this is something that would take alot of time to collate each user so this is something only used for bulk adding (10+ Users).
 Doing this and abiding by the audit rules i keep a docuemnt to track each user added by the script with a request number in an excel sheet. **This is highly reccomeneded incase an error is made or if there is a dispute on access.** 
+
+The method used for compiling the scripts in PowerShell is this:
+https://redmondmag.com/articles/2017/01/27/convert-a-powershell-script-into-an-exe-file.aspx
