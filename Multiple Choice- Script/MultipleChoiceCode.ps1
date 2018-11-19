@@ -285,7 +285,6 @@ function ifChecked { # start function ifChecked, houses to check if the if's are
 
 			
      ##If the group name is unrecognised. Check group on ad by searching the groupname. Then check the "display name" and the pre-200Windows name match.
-     ##If not then use the Pre-2000... name. (this is what was done for outlook2007 hence the zzCC instead of zCC.)
              
 } #Ends ProcInfo
 
@@ -490,5 +489,4 @@ $Form.Add_Shown({$Form.Activate()})
 ##http://serverfixes.com/powershell-checkboxes
 ##https://sysadminemporium.wordpress.com/2013/01/31/powershell-gui-for-your-scripts-episode-4/
 
-#########################################################################||Origional creator Owen Lloyd-Jones. OJONES 99041826||#########################################################################
-##If you need help with understanding/editing contact. DLJONES 99039478
+#########################################################################||Origional creator Owen Lloyd-Jones.||#########################################################################
